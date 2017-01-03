@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-rax-env",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "babel-plugin-rax-env",
   "repository": "http://github.alibaba-inc.com/zhoujianlin8/babel-plugin-rax-env",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "email": "zhoujianlin8@gmail.com"
   },
   "dependencies": {
-    "babel-types": "^6.21.0"
+
   },
   "maintainers": [
     {
