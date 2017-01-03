@@ -1,0 +1,28 @@
+{
+  "name": "babel-plugin-rax-env",
+  "version": "0.0.1",
+  "description": "babel-plugin-rax-env",
+  "repository": "http://github.alibaba-inc.com/zhoujianlin8/babel-plugin-rax-env",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "fieDependencies": {},
+  "fieOption": {
+    "type": "normal"
+  },
+  "author": {
+    "name": "zhoujianlin8",
+    "email": "zhoujianlin8@gmail.com"
+  },
+  "dependencies": {
+    "babel-types": "^6.21.0"
+  },
+  "maintainers": [
+    {
+      "name": "jianlin.zjl",
+      "email": "jianlin.zjl@alibaba-inc.com"
+    }
+  ],
+  "readmeFilename": "README.md"
+}
